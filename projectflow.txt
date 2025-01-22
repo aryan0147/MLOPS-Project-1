@@ -150,4 +150,4 @@
 aryanjjoshi07
 asU5XP7CMMa0cXlZ
 
-mongodb+srv://aryanjjoshi07:<db_password>@cluster0.gx5gw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://aryanjjoshi07:asU5XP7CMMa0cXlZ@cluster0.gx5gw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
