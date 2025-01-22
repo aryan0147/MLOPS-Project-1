@@ -18,6 +18,6 @@ python-multipart
 uvicorn
 jinja2
 imblearn
-
+xgboost==1.3.3
 #Specifies that the package should be installed in editable mode.
 -e .
