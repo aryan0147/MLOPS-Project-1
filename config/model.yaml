@@ -1,0 +1,10 @@
+# MODEL_TRAINER:
+#   N_ESTIMATORS: 200
+#   MIN_SAMPLES_SPLIT: 7
+#   MIN_SAMPLES_LEAF: 6
+# MIN_SAMPLES_SPLIT:
+#   MAX_DEPTH: 10
+#   CRITERION: "entropy"
+#   RANDOM_STATE: 101
+
+# For my own purpose for later use.

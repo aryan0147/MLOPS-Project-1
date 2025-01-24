@@ -54,7 +54,7 @@
 22. Now work on the "Model Trainer" component the way we did in above step. (add class to estimator.py in entity folder)
 
 23. Before moving to next component of Model Evaluation, some AWS services setup is needed:
-      * Login to AWS console.
+       * Login to AWS console.
       * Keep region set as - us-east-1
       * Go to IAM >> Create new user (name: firstproj)
       * Attach policy >> select AdministratorAccess >> next >> create user
