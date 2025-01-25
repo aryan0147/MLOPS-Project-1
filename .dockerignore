@@ -1,4 +1,3 @@
-
 artifact
 venv
 env
@@ -10,6 +9,3 @@ README.md
 LICENSE
 src.egg.-info
 notebook
-app.py
-templates
-static
